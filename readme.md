@@ -13,5 +13,5 @@
 <p>5. Run npm run watch.</p>
 <p>5. Run php artisan serve.</p>
 <p>6. Now open url localhost:8000 in your browser.</p>
-![alt text](https://prnt.sc/tv5c62)
+![Screenshot_1](https://user-images.githubusercontent.com/33013791/89543541-44578080-d82b-11ea-8098-f921525f4de3.png)
 # Good Luck!
