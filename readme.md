@@ -12,6 +12,7 @@
 <p>4. Run npm install to your project (you must install node.js first)</p>
 <p>5. Run npm run watch.</p>
 <p>5. Run php artisan serve.</p>
-<p>6. Now open url localhost:8000 in your browser.</p>
+<p>6. Now open url localhost:8000 in your browser, put username, ID meeting and password then click join meeting button.</p>
+<p>taraaaaa</p>
 <img src="https://user-images.githubusercontent.com/33013791/89543541-44578080-d82b-11ea-8098-f921525f4de3.png">
 # Good Luck!
